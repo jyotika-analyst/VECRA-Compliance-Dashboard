@@ -15,7 +15,7 @@ Are non-compliance counts equally distributed across the seven NQS quality areas
 ## Tools Used
 
 - Microsoft Excel — data cleaning, chi-square analysis, standardised residuals, Cohen's W
-- Power BI (PL-300) — interactive dashboard, DAX measures, conditional formatting
+- Power BI — interactive dashboard, DAX measures, conditional formatting
 
 ## Dataset
 
@@ -30,8 +30,7 @@ Are non-compliance counts equally distributed across the seven NQS quality areas
 
 ### Hypothesis
 
-- H₀: Non-compliance counts are equally distributed across all 7 NQS quality areas
-- H₁: At least one quality area has a significantly different non-compliance count
+- H₀: Non-compliance counts are equally distributed across all 7 NQS quality areas (for both Centre-Based Care and Family Day Care)
 
 ### Statistical test
 
@@ -68,7 +67,7 @@ Both H₀ hypotheses rejected — non-compliance is significantly and meaningful
 - Diverging bar chart — standardised residuals by quality area with colour intensity showing magnitude
 - Non-compliance analysis table — quality area, observed count, percentage share, benchmark, priority — fully dynamic
 - Chi-square tooltip — hover over any row or bar to see full statistical results
-- Conditional formatting — High Priority in orange, Low Priority in teal, Monitor in grey
+- Conditional formatting — High Priority in orange, Low Priority in teal blue, Monitor in grey
 
 
 ## Recommendations
