@@ -51,11 +51,11 @@ Both H₀ hypotheses rejected — non-compliance is significantly and meaningful
 
 ## Key Insights
 
-- QA7 (Leadership and service management) is the highest priority area for both service types — 28.0% CBC · 29.3% FDC
+- QA7 (Leadership and service management) is the highest priority area for both service types — 27.9% CBC · 29.3% FDC
 - QA2 (Children's health and safety) is the second highest — 26.3% CBC · 24.0% FDC
 - QA7 and QA2 together account for over 54% of all non-compliance for both service types
-- QA6 (Collaborative partnerships) is the lowest priority for CBC at just 1.4%
-- QA3 (Physical environment) is notably higher for FDC (17.3%) vs CBC (6.9%) — home-based settings face greater physical environment challenges
+- QA6 (Collaborative partnerships) is the lowest priority for CBC at just 1.4% and it is lowest for FDC as well with 2.67%
+- QA3 (Physical environment) accounts for 17.3% of FDC non-compliance — the third highest area after QA7 and QA2, suggesting physical environment is a notable concern for family day care services
 - Both service types show large effect sizes (Cohen's W > 0.50) confirming the pattern is practically meaningful
 
 
@@ -75,8 +75,7 @@ Both H₀ hypotheses rejected — non-compliance is significantly and meaningful
 - Prioritise QA7 — accounts for ~29% of non-compliance across both service types
 - Increase QA2 monitoring — together with QA7, over 54% of non-compliance is in these two areas
 - Targeted FDC support for QA3 — physical environment non-compliance significantly higher for family day care
-- Reduce QA6 burden — lowest non-compliance for CBC at 1.4% — resources can be reallocated
-- Differentiated strategy — non-compliance patterns differ between service types
+- Reduce QA6 burden — lowest non-compliance for CBC and it is 2.67% for FDC— resources can be reallocated
 
 ## Dashboard Preview
 
