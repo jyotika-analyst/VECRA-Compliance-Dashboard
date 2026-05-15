@@ -28,9 +28,10 @@ Are non-compliance counts equally distributed across the seven NQS quality areas
 
 ## Methodology
 
-### Hypothesis
+### Hypotheses
 
-- H₀: Non-compliance counts are equally distributed across all 7 NQS quality areas (this hypthesis was tested for both Centre-Based Care and Family Day Care separately)
+- H₀₁: Non-compliance counts are equally distributed across all 7 NQS quality areas for centre-based care services in Victoria
+- H₀₂: Non-compliance counts are equally distributed across all 7 NQS quality areas for family day care services in Victoria
 
 ### Statistical test
 
@@ -54,7 +55,7 @@ Both H₀ hypotheses rejected — non-compliance is significantly and meaningful
 - QA7 (Leadership and service management) is the highest priority area for both service types — 27.9% CBC · 29.3% FDC
 - QA2 (Children's health and safety) is the second highest — 26.3% CBC · 24.0% FDC
 - QA7 and QA2 together account for over 54% of all non-compliance for both service types
-- QA6 (Collaborative partnerships) is the lowest priority for CBC at just 1.4% and it is lowest for FDC as well with 2.67%
+- QA6 (Collaborative partnerships) is the lowest priority for CBC at just 1.4% and also the lowest for FDC at 2.67%
 - QA3 (Physical environment) accounts for 17.3% of FDC non-compliance — the third highest area after QA7 and QA2, suggesting physical environment is a notable concern for family day care services
 - Both service types show large effect sizes (Cohen's W > 0.50) confirming the pattern is practically meaningful
 
