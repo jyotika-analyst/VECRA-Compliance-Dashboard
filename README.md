@@ -30,7 +30,7 @@ Are non-compliance counts equally distributed across the seven NQS quality areas
 
 ### Hypothesis
 
-- H₀: Non-compliance counts are equally distributed across all 7 NQS quality areas (for both Centre-Based Care and Family Day Care)
+- H₀: Non-compliance counts are equally distributed across all 7 NQS quality areas (this hypthesis was tested for both Centre-Based Care and Family Day Care separately)
 
 ### Statistical test
 
