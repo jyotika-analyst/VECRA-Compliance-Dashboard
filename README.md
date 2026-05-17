@@ -6,7 +6,10 @@ Built an interactive regulatory compliance analytics dashboard in Power BI and E
 [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUyZDUwZTYtYzYwYy00OGIwLWJkODItMGQ1YmY2OTY4ZWU4IiwidCI6ImZjZjAyZDc5LTE4NGQtNDA4Yy05NTI4LWZjZTMzMzc1YWIzZSJ9)
 
 ## Business Problem
-Victorian early childhood services are assessed against seven National Quality Standard (NQS) quality areas by the Victorian Early Childhood Regulatory Authority (VECRA). With thousands of services across Victoria, VECRA needs to know where to prioritise its regulatory oversight.
+Business Context
+
+Victorian early childhood services are assessed against seven National Quality Standard (NQS) quality areas by the Victorian Early Childhood Regulatory Authority (VECRA). However, limited visibility exists into whether non-compliance is evenly distributed across these quality areas or concentrated within specific regulatory risk areas requiring greater monitoring attention.
+
 
 ### Research Question
 
