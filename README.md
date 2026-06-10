@@ -26,7 +26,7 @@ Are non-compliance counts equally distributed across the seven NQS quality areas
 - Records: 4,639 assessed services
 - Service types: Centre-Based Care (n = 4,541) · Family Day Care (n = 98)
 - Variables: 20 columns including service name, provider, suburb, postcode and NQS ratings for all 7 quality areas
-- Cleaning: 396 rows removed (unassessed services) · Binary Compliant/Non-Compliant classification applied · Overall rating column removed
+- Cleaning: 396 rows removed (unassessed services) to ensure data quality assurance · Binary Compliant/Non-Compliant classification applied · Overall rating column removed
 
 
 ## Methodology
@@ -76,8 +76,8 @@ Both H₀ hypotheses rejected — non-compliance is significantly and meaningful
 
 ## Recommendations
 
-- Prioritise QA7 — accounts for ~29% of non-compliance across both service types
-- Increase QA2 monitoring — together with QA7, over 54% of non-compliance is in these two areas
+- QA7 may warrant closer monitoring due to its consistently high concentration of non-compliance (accounts for ~29% of non-compliance across both service types)
+- QA2 may benefit from additional regulatory attention together with QA7 (over 54% of non-compliance is in these two areas)
 - Targeted FDC support for QA3 — physical environment non-compliance significantly higher for family day care
 - Reduce QA6 burden — lowest non-compliance for CBC and it is 2.67% for FDC— resources can be reallocated
 
