@@ -76,7 +76,7 @@ Both H₀ hypotheses rejected — non-compliance is significantly and meaningful
 
 ## Recommendations
 
-- QA7 may warrant closer monitoring due to its consistently high concentration of non-compliance (accounts for ~29% of non-compliance across both service types)
+- QA7 may warrant closer monitoring due to its consistently high concentration of non-compliance (accounts for ~27%(CBC) and ~29%(FDC) of non-compliance across both service types)
 - QA2 may benefit from additional regulatory attention together with QA7 (over 54% of non-compliance is in these two areas)
 - Targeted FDC support for QA3 — physical environment non-compliance significantly higher for family day care
 - QA6 may require less intensive monitoring relative to higher-risk areas, given its consistently low share of non-compliance across both service types.
