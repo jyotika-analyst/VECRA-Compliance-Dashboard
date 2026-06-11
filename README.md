@@ -5,6 +5,16 @@ Built an interactive regulatory compliance analytics dashboard in Power BI and E
 
 [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUyZDUwZTYtYzYwYy00OGIwLWJkODItMGQ1YmY2OTY4ZWU4IiwidCI6ImZjZjAyZDc5LTE4NGQtNDA4Yy05NTI4LWZjZTMzMzc1YWIzZSJ9)
 
+## Key Skills Demonstrated
+- Data Cleaning & Preparation (Excel)
+- Power BI Dashboard Development
+- DAX Measures & KPI Reporting
+- Data Visualisation
+- Regulatory Data Analysis (NQS Framework)
+- Insight Reporting & Stakeholder Communication
+- Statistical Analysis (Chi-square Test, Cohen’s W)
+- Hypothesis Testing
+
 ## Business Problem
 Business Context
 
